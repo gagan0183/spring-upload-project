@@ -1,0 +1,224 @@
+Subjects
+
+[
+  {
+    "subjectIdentifier": "103013881",
+    "attributes": [
+      {
+        "issuer": "https://acs.attributes.int",
+        "name": "role",
+        "value": "admin"
+      }
+    ],
+    "parents": []
+  },
+  {
+    "subjectIdentifier": "212466468",
+    "attributes": [
+      {
+        "issuer": "https://acs.attributes.int",
+        "name": "role",
+        "value": "editor"
+      }
+    ],
+    "parents": []
+  },
+  {
+    "subjectIdentifier": "204050641",
+    "attributes": [
+      {
+        "issuer": "https://acs.attributes.int",
+        "name": "role",
+        "value": "admin"
+      }
+    ],
+    "parents": []
+  },
+  {
+    "subjectIdentifier": "502681999",
+    "attributes": [
+      {
+        "issuer": "https://acs.attributes.int",
+        "name": "role",
+        "value": "admin"
+      }
+    ],
+    "parents": []
+  },
+  {
+    "subjectIdentifier": "502680709",
+    "attributes": [
+      {
+        "issuer": "https://acs.attributes.int",
+        "name": "role",
+        "value": "editor"
+      }
+    ],
+    "parents": []
+  },
+  {
+    "subjectIdentifier": "502680713",
+    "attributes": [
+      {
+        "issuer": "https://acs.attributes.int",
+        "name": "role",
+        "value": "admin"
+      }
+    ],
+    "parents": []
+  },
+  {
+    "subjectIdentifier": "502680715",
+    "attributes": [
+      {
+        "issuer": "https://acs.attributes.int",
+        "name": "role",
+        "value": "viewer"
+      }
+    ],
+    "parents": []
+  },
+  {
+    "subjectIdentifier": "204056770",
+    "attributes": [
+      {
+        "issuer": "https://acs.attributes.int",
+        "name": "role",
+        "value": "viewer"
+      }
+    ],
+    "parents": []
+  },
+  {
+    "subjectIdentifier": "210076397",
+    "attributes": [
+      {
+        "issuer": "https://acs.attributes.int",
+        "name": "role",
+        "value": "viewer"
+      }
+    ],
+    "parents": []
+  },
+  {
+    "subjectIdentifier": "105027079",
+    "attributes": [
+      {
+        "issuer": "https://acs.attributes.int",
+        "name": "role",
+        "value": "viewer"
+      }
+    ],
+    "parents": []
+  },
+  {
+    "subjectIdentifier": "218009315",
+    "attributes": [
+      {
+        "issuer": "https://acs.attributes.int",
+        "name": "role",
+        "value": "viewer"
+      }
+    ],
+    "parents": []
+  },
+  {
+    "subjectIdentifier": "200012172",
+    "attributes": [
+      {
+        "issuer": "https://acs.attributes.int",
+        "name": "role",
+        "value": "admin"
+      }
+    ],
+    "parents": []
+  },
+  {
+    "subjectIdentifier": "212402642",
+    "attributes": [
+      {
+        "issuer": "https://acs.attributes.int",
+        "name": "role",
+        "value": "admin"
+      }
+    ],
+    "parents": []
+  },
+  {
+    "subjectIdentifier": "212558525",
+    "attributes": [
+      {
+        "issuer": "https://acs.attributes.int",
+        "name": "role",
+        "value": "editor"
+      }
+    ],
+    "parents": []
+  },
+  {
+    "subjectIdentifier": "204051434",
+    "attributes": [
+      {
+        "issuer": "https://acs.attributes.int",
+        "name": "role",
+        "value": "editor"
+      }
+    ],
+    "parents": []
+  },
+  {
+    "subjectIdentifier": "105050463",
+    "attributes": [
+      {
+        "issuer": "https://acs.attributes.int",
+        "name": "role",
+        "value": "editor"
+      }
+    ],
+    "parents": []
+  },
+  {
+    "subjectIdentifier": "105015173",
+    "attributes": [
+      {
+        "issuer": "https://acs.attributes.int",
+        "name": "role",
+        "value": "editor"
+      }
+    ],
+    "parents": []
+  },
+  {
+    "subjectIdentifier": "207007392",
+    "attributes": [
+      {
+        "issuer": "https://acs.attributes.int",
+        "name": "role",
+        "value": "admin"
+      }
+    ],
+    "parents": []
+  },
+  {
+    "subjectIdentifier": "204006592",
+    "attributes": [
+      {
+        "issuer": "https://acs.attributes.int",
+        "name": "role",
+        "value": "admin"
+      }
+    ],
+    "parents": []
+  },
+  {
+    "subjectIdentifier": "204057036",
+    "attributes": [
+      {
+        "issuer": "https://acs.attributes.int",
+        "name": "role",
+        "value": "admin"
+      }
+    ],
+    "parents": []
+  }
+]
